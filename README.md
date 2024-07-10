@@ -7,9 +7,6 @@
 
 ![image](https://cdn.discordapp.com/attachments/775454358783524885/1260650549972570132/img2.png?ex=669017d0&is=668ec650&hm=52630de5570ab19372ecebdc14b49796f4fdadfbe6b1adce61f5f8f355a7f7d6&)
 
-![image](https://cdn.discordapp.com/attachments/775454358783524885/1260650549246824579/img4.png?ex=669017d0&is=668ec650&hm=5d3127b07f6a3e55e90366b655b07260ec93c162b328ff450dcf089c6d2d87ff&)
-
-
 **OS**: ArchLinux
 
 **WM**: Hyprland
