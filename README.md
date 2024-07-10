@@ -1,7 +1,7 @@
 # Dotfile personalizado hyprland
 
 
-![image](https://cdn.discordapp.com/attachments/775454358783524885/1259582292691779695/terminais.png?ex=668c34ec&is=668ae36c&hm=b80fe42f948f94aefeedb0f079500989172f0dba5231a11201bff1173a8e6430&)
+![image](https://cdn.discordapp.com/attachments/775454358783524885/1259582292691779695/terminais.png?ex=668f80ac&is=668e2f2c&hm=2f2de1894bcb6ada2f9e7c7000c03e1ba3d1238f774e541018f288c07d696c4d&)
 
 ![image](https://cdn.discordapp.com/attachments/775454358783524885/1260650549561393152/img3.png?ex=669017d0&is=668ec650&hm=cc5a1a2ab3cdafe7e33801cdfb3797685172eac642939bfd99256ef3afc4b32f&)
 
