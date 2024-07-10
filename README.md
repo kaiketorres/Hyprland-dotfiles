@@ -19,4 +19,6 @@
 
 **Pacotes necessários**: waybar-hyprland, mako, hyprland, alacritty, rofi-lbonn-wayland, polkit-kde-agent, brightnessctl, pulseaudio,rofi-power-manager-git e seus pacotes desejados
 
+**(OPCIONAL) Minha config do VSCODE**:  <a href="https://github.com/kaiketorres/settings.json">settings.json</a>
+
 **Passo para instalar**: Colocar os arquivos em ~/.config/ e ~/.local e divirta-se. Não se esqueça de executar fc-cache -v -f depois disso.
